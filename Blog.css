@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: box-sizing;
+}
+
+body{
+  text-align: center;
+  justify-content: center;
+  background-color: gray;
+}
+
+.profile{
+  width: 200px;
+  height: 200px;
+  background-image: url('logo.png');
+}
